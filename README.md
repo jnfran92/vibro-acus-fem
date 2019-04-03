@@ -10,7 +10,8 @@ Numerically Based Analyses of Fluid–Structure Interaction: Matlab and C++/CUDA
 [![Link](https://img.shields.io/badge/go-page-blue.svg)](https://github.com/jnfran92/vibro-acus-fem/tree/master/Slender%20Beam%20FEM) 
 
 #### Model
-![Model](https://imgur.com/2TyJKDe.png)
+<!-- ![Model](https://imgur.com/2TyJKDe.png) -->
+<img src="https://imgur.com/2TyJKDe.png" width="100">
 
 
 #### Output
