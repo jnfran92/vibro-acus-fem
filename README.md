@@ -10,13 +10,11 @@ Numerically Based Analyses of Fluid–Structure Interaction: Matlab and C++/CUDA
 [![Link](https://img.shields.io/badge/go-page-blue.svg)](https://github.com/jnfran92/vibro-acus-fem/tree/master/Slender%20Beam%20FEM) 
 
 #### Model
-<!-- ![Model](https://imgur.com/2TyJKDe.png) -->
-<img src="https://imgur.com/2TyJKDe.png" width="400">
+<img src="https://imgur.com/2TyJKDe.png" width="500">
 
 
 #### Output
-![Out](https://imgur.com/iReTtZQ.png)
-
+<img src="https://imgur.com/iReTtZQ.png" width="500">
 
 
 ### Slender Beam RRM
@@ -25,12 +23,10 @@ Numerically Based Analyses of Fluid–Structure Interaction: Matlab and C++/CUDA
 [![Link](https://img.shields.io/badge/go-page-blue.svg)](https://github.com/jnfran92/vibro-acus-fem/tree/master/Slender%20Beam%20RRM) 
 
 #### Model
-![Model](https://imgur.com/g4SQAMr.png)
-
+<img src="https://imgur.com/g4SQAMr.png" width="500">
 
 #### Output
-![Out](https://imgur.com/BJmtpTB.png)
-
+<img src="https://imgur.com/BJmtpTB.png" width="500">
 
 ### Straight Pipe FEM
 
@@ -38,12 +34,10 @@ Numerically Based Analyses of Fluid–Structure Interaction: Matlab and C++/CUDA
 [![Link](https://img.shields.io/badge/go-page-blue.svg)](https://github.com/jnfran92/vibro-acus-fem/tree/master/Straight%20Pipe%20FEM) 
 
 #### Model
-![Model](https://imgur.com/JxiAHju.png)
-
+<img src="https://imgur.com/JxiAHju.png" width="500">
 
 #### Output
-![Out](https://imgur.com/DhIY9XU.png)
-
+<img src="https://imgur.com/DhIY9XU.png" width="500">
 
 ### Thin Flat FEM
 
@@ -51,12 +45,10 @@ Numerically Based Analyses of Fluid–Structure Interaction: Matlab and C++/CUDA
 [![Link](https://img.shields.io/badge/go-page-blue.svg)](https://github.com/jnfran92/vibro-acus-fem/tree/master/Thin%20Flat%20Plate%20FEM) 
 
 #### Model
-![Model](https://imgur.com/g4SQAMr.png)
-
+<img src="https://imgur.com/g4SQAMr.png" width="500">
 
 #### Output
-![Out](https://imgur.com/BJmtpTB.png)
-
+<img src="https://imgur.com/BJmtpTB.png" width="500">
 
 ### 3D Fluid FEM
 
@@ -64,12 +56,10 @@ Numerically Based Analyses of Fluid–Structure Interaction: Matlab and C++/CUDA
 [![Link](https://img.shields.io/badge/go-page-blue.svg)](https://github.com/jnfran92/fem-cuda-solver) 
 
 #### Model
-![Model](https://imgur.com/ANh523W.png)
-
+<img src="https://imgur.com/ANh523W.png" width="500">
 
 #### Output
-![Out](https://imgur.com/5Uv6QXl.png)
-
+<img src="https://imgur.com/5Uv6QXl.png" width="500">
 
 
 ## Notes
