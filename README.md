@@ -11,7 +11,7 @@ Numerically Based Analyses of Fluid–Structure Interaction: Matlab and C++/CUDA
 
 #### Model
 <!-- ![Model](https://imgur.com/2TyJKDe.png) -->
-<img src="https://imgur.com/2TyJKDe.png" width="100">
+<img src="https://imgur.com/2TyJKDe.png" width="400">
 
 
 #### Output
