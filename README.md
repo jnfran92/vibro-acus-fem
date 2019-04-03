@@ -4,10 +4,7 @@ Numerically Based Analyses of Fluid–Structure Interaction: Matlab and C++/CUDA
 
 ## Content
 
-### Slender Beam FEM
-
-**MATLAB** Flexural Vibration of Slender Beams: Finite Element Analysis
-
+### Slender Beam FEM: **MATLAB** Flexural Vibration of Slender Beams: Finite Element Analysis
 [![Link](https://img.shields.io/badge/go-page-blue.svg)](https://github.com/jnfran92/vibro-acus-fem/tree/master/Slender%20Beam%20FEM) 
 
 #### Model
@@ -22,7 +19,6 @@ Numerically Based Analyses of Fluid–Structure Interaction: Matlab and C++/CUDA
 ### Slender Beam RRM
 
 **MATLAB** Flexural Vibration of Slender Beams: Rayleigh–Ritz Method
-
 [![Link](https://img.shields.io/badge/go-page-blue.svg)](https://github.com/jnfran92/vibro-acus-fem/tree/master/Slender%20Beam%20RRM) 
 
 #### Model
@@ -36,7 +32,6 @@ Numerically Based Analyses of Fluid–Structure Interaction: Matlab and C++/CUDA
 ### Straight Pipe FEM
 
 **MATLAB** One-Dimensional Acoustic Vibration of Fluid in a Uniform Straight Pipe: Finite Element Analysis
-
 [![Link](https://img.shields.io/badge/go-page-blue.svg)](https://github.com/jnfran92/vibro-acus-fem/tree/master/Straight%20Pipe%20FEM) 
 
 #### Model
@@ -50,7 +45,6 @@ Numerically Based Analyses of Fluid–Structure Interaction: Matlab and C++/CUDA
 ### Thin Flat FEM
 
 **MATLAB** One-Dimensional Acoustic Vibration of Fluid in a Uniform Straight Pipe: Finite Element Analysis
-
 [![Link](https://img.shields.io/badge/go-page-blue.svg)](https://github.com/jnfran92/vibro-acus-fem/tree/master/Thin%20Flat%20Plate%20FEM) 
 
 #### Model
@@ -64,7 +58,6 @@ Numerically Based Analyses of Fluid–Structure Interaction: Matlab and C++/CUDA
 ### 3D Fluid FEM
 
 **MATLAB/C++** Acoustic Vibration of a Fluid in a Three-Dimensional Cavity: Finite Element Analysis
-
 [![Link](https://img.shields.io/badge/go-page-blue.svg)](https://github.com/jnfran92/fem-cuda-solver) 
 
 #### Model
