@@ -2,9 +2,11 @@
 
 Numerically Based Analyses of Fluid–Structure Interaction: Matlab and C++/CUDA implementation of FEM models.
 
-## Content
+## Models
 
-### Slender Beam FEM: **MATLAB** Flexural Vibration of Slender Beams: Finite Element Analysis
+### Slender Beam FEM
+
+**MATLAB** Flexural Vibration of Slender Beams: Finite Element Analysis
 [![Link](https://img.shields.io/badge/go-page-blue.svg)](https://github.com/jnfran92/vibro-acus-fem/tree/master/Slender%20Beam%20FEM) 
 
 #### Model
