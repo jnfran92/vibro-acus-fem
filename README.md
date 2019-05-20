@@ -69,7 +69,7 @@ Numerically Based Analyses of Fluid–Structure Interaction: Matlab and C++/CUDA
 - Each Folder conatins a "notes.pdf" with more infromation(*In Spanish*)
 
 ## References
-- Bharadwaj, S. G., Varadarajan, P. R., & Fahy, J. (1993). Sustainable competitive advantage in service industries: a conceptual model and research propositions. Journal of marketing, 57(4), 83-99.
+- Fahy, F. J., & Gardonio, P. (2007). Sound and structural vibration: radiation, transmission and response. Elsevier.
 
 - Howard, C. Q., & Cazzolato, B. S. (2014). Acoustic analyses using Matlab® and Ansys®. CRC press.
 
